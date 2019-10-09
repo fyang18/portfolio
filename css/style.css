@@ -1,11 +1,3 @@
-/*
-* Box Theme
-* Created by : Ahmed Eissa
-* website : www.ahmedessa.net
-* behance : https://www.behance.net/3essa
-*/
-
-
 /* Table of Content
 ==================================================
 	- Google fonts & font family -
@@ -76,7 +68,7 @@ a {
 }
 
 .color {
-    color: #ffbf00;
+    color: #00a2ff;
     font-size: 11px;
 }
 
@@ -95,7 +87,7 @@ h3 {
 }
 
 h5 {
-    color: #ffbf00;
+    color: #00a2ff;
 }
 
 
@@ -137,7 +129,7 @@ h5 {
     width: 100%;
     height: 100%;
     border-radius: 50%;
-    background-color: #ffbf00;
+    background-color: #00a2ff;
     opacity: 0.6;
     position: absolute;
     top: 0;
@@ -385,7 +377,7 @@ h5 {
 }
 
 .box-primary-nav .box-label {
-    color: #ffbf00;
+    color: #00a2ff;
     text-transform: uppercase;
     font-weight: 700;
     font-size: 17px;
@@ -439,8 +431,9 @@ h5 {
 }
 
 b i:last-child {
-    color: #ffbf00 !important;
+    color: #00a2ff !important;
 }
+
 
 .box-intro h5 {
     letter-spacing: 4px;
@@ -712,7 +705,7 @@ b i:last-child {
 
 .portfolio .categories-grid .categories ul li a.active {
     margin-left: 0;
-    background-color: #ffbf00;
+    background-color: #00a2ff;
     padding: 0px 20px;
     color: white;
     border-radius: 25px;
@@ -769,7 +762,7 @@ b i:last-child {
 .portfolio_item .portfolio_item_hover .item_info em {
     font-style: normal;
     display: inline-block;
-    background-color: #ffbf00;
+    background-color: #00a2ff;
     padding: 5px 20px;
     border-radius: 25px;
     color: #333;
@@ -804,14 +797,6 @@ b i:last-child {
     padding: 0 10px;
     -webkit-transition: all .2s ease-in-out .2s;
     transition: all .2s ease-in-out .2s;
-}
-
-.portfolio_filter {
-    padding-left: 0;
-    display: inline-block;
-    margin: 0 auto;
-    text-align: center;
-    margin-bottom: 50px;
 }
 
 .portfolio-inner {
@@ -853,7 +838,7 @@ footer img {
     right: 10px;
     text-align: center;
     color: #fff;
-    background: rgba(255, 191, 0, 0.8);
+    background: #00a2ff;
     visibility: hidden;
     opacity: 0;
     -webkit-transition: opacity .3s 0s, visibility 0s .3s;
@@ -879,7 +864,7 @@ footer img {
 
 .no-touch .cd-top:hover,
 .no-touch .cd-top:focus {
-    background-color: #ffbf00;
+    background-color: #00a2ff;
     opacity: 1;
     color: #fff;
 }
@@ -1041,7 +1026,7 @@ footer img {
 
 .input-contact > span.active,
 .textarea-contact > span.active {
-    color: #ffbf00;
+    color: #00a2ff;
     font-size: 10px;
     top: 0px;
     left: 5px;
@@ -1062,7 +1047,7 @@ textarea:focus {
     height: 30px;
     width: 30px;
     display: inline-block;
-    background: #ffbf00;
+    background: #00a2ff;
     text-align: center;
     line-height: 33px;
     margin-right: 10px;
@@ -1076,7 +1061,7 @@ textarea:focus {
 }
 
 .btn-box {
-    background: #ffbf00;
+    background: #00a2ff;
     padding: 10px 50px;
     border-radius: 0;
     color: #fff;
@@ -1088,7 +1073,7 @@ textarea:focus {
 
 .btn-box:hover,
 .btn-box:focus {
-    background: #F5B700;
+    background: #00a2ff;
     color: #fff;
 }
 
@@ -1103,7 +1088,7 @@ textarea:focus {
 
 .cat-ul li i {
     margin-right: 10px;
-    color: #ffbf00;
+    color:#00a2ff;
 }
 
 
